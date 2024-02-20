@@ -12,16 +12,9 @@ function Blogs() {
                         <div className="grids5-info">
                             <a href="#blog"><img src="assets/images/blog2.jpg" alt="" /></a>
                             <div className="blog-info">
-                                <h4><a href="#blog">Education Programs...</a></h4>
+                                <h4><a href="#blog">ABA Program Helps a lot</a></h4>
                                 <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sunt inc
                                     officia deserunt.</p>
-                                <div className="d-flex align-items-center justify-content-between mt-4">
-                                    <a className="d-flex align-items-center" href="#blog" title="23k followers">
-                                        <img className="img-fluid" src="assets/images/testi2.jpg" alt="admin"
-                                        /> <span className="small ms-2">Eetey Cruis</span>
-                                    </a>
-                                    <p className="date-text"><i className="far fa-calendar-alt me-1"></i>Oct 06, 2021</p>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -31,16 +24,8 @@ function Blogs() {
                         <div className="grids5-info">
                             <a href="#blog"><img src="assets/images/blog1.jpg" alt="" /></a>
                             <div className="blog-info">
-                                <h4><a href="#blog">Games Programs...</a></h4>
-                                <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sunt inc
-                                    officia deserunt.</p>
-                                <div className="d-flex align-items-center justify-content-between mt-4">
-                                    <a className="d-flex align-items-center" href="#blog" title="23k followers">
-                                        <img className="img-fluid" src="assets/images/testi1.jpg" alt="admin"
-                                            /> <span className="small ms-2">Molive Joe</span>
-                                    </a>
-                                    <p className="date-text"><i className="far fa-calendar-alt me-1"></i>Oct 10, 2021</p>
-                                </div>
+                                <h4><a href="#blog">Therapeutic Sessions at Care for Autism that aim for Better Growth of your Child</a></h4>
+                                <p>Care for Autism has experts catering to major therapeutic sessions that are an essential part of treatment for children with</p>
                             </div>
                         </div>
                     </div>
@@ -50,17 +35,8 @@ function Blogs() {
                         <div className="grids5-info">
                             <a href="#blog"><img src="assets/images/blog3.jpg" alt="" /></a>
                             <div className="blog-info">
-                                <h4><a href="#blog">Articles Programs...</a></h4>
-                                <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sunt inc
-                                    officia deserunt.</p>
-                                <div className="d-flex align-items-center justify-content-between mt-4">
-                                    <a className="d-flex align-items-center" href="#blog" title="23k followers">
-                                        <img className="img-fluid" src="assets/images/testi3.jpg" alt="admin"
-                                            /> <span className="small ms-2">Turne Leo
-                                        </span>
-                                    </a>
-                                    <p className="date-text"><i className="far fa-calendar-alt me-1"></i>Oct 12, 2021</p>
-                                </div>
+                                <h4><a href="#blog">Fun-filled Learning Activities for Special Children</a></h4>
+                                <p>Play is an activity that engages children and makes them feel happy. The right approach and guidance for different playful</p>
                             </div>
                         </div>
                     </div>
