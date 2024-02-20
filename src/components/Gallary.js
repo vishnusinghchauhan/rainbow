@@ -28,20 +28,7 @@ function Gallary() {
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-4 col-md-6 mt-lg-0 mt-4">
-                    <div className="coursecard-single">
-                        <div className="grids5-info position-relative">
-                            <img src="assets/images/c3.jpg" alt="" className="img-fluid" />
-                        </div>
-                    </div>
-                </div>
-                <div className="col-lg-4 col-md-6 mt-lg-0 mt-4">
-                    <div className="coursecard-single">
-                        <div className="grids5-info position-relative">
-                            <img src="assets/images/c3.jpg" alt="" className="img-fluid" />
-                        </div>
-                    </div>
-                </div>
+                
                 <div className="col-lg-4 col-md-6 mt-md-0 mt-4">
                     <div className="coursecard-single">
                         <div className="grids5-info position-relative">
@@ -53,6 +40,20 @@ function Gallary() {
                     <div className="coursecard-single">
                         <div className="grids5-info position-relative">
                             <img src="assets/images/c1.jpg" alt="" className="img-fluid" />
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-md-6 mt-lg-0 mt-4">
+                    <div className="coursecard-single">
+                        <div className="grids5-info position-relative">
+                            <img src="assets/images/c3.jpg" alt="" className="img-fluid" />
+                        </div>
+                    </div>
+                </div>
+                <div className="col-lg-4 col-md-6 mt-lg-0 mt-4">
+                    <div className="coursecard-single">
+                        <div className="grids5-info position-relative">
+                            <img src="assets/images/c3.jpg" alt="" className="img-fluid" />
                         </div>
                     </div>
                 </div>
